@@ -2,6 +2,7 @@
 An automatic sms reminder to remind residents to complete the payment towards layout maintainance after reading an excel sheet with payment status and resident details
 
 This project (Main file is "code.py") uses an excel sheet to source the input , the fields of which are of the following order
+
 House#	|| Sub Unit ||	Name	|| Latest Rcpt	|| Amt	|| From ||	To	|| Contact number	|| Paid Members
 ![image](https://github.com/SujayJayakumar/MaintainanceFee_Remainder/assets/113993766/9262b297-d0e4-4ef6-bf1c-ef0bdcad00f8)
 
