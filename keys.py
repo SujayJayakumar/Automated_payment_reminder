@@ -1,6 +1,6 @@
-account_sid = 'AC1bb261deabfbc57d273cc7895af0dc00'
-auth_token = 'c90d6967fb99ebdcfa139571944e0e40'
+account_sid = 'SID provided on twilio account after registering'
+auth_token = 'unique token from twilio'
 
-twilio_number = '+15736977244'
-target_number = '+919008281303'
+twilio_number = 'unique token from twilio'
+target_number = '+91'
 
