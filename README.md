@@ -12,3 +12,5 @@ Another file name keys.py is used to save the authenication code and token of th
 
 Also, refer to the "python libraries to b installed.txt" to install the necessary modules in python using pip command in the terminal.
 
+twilio_msg.py is a dummy file with the syntax needed to send the msg as per twilio module.
+
