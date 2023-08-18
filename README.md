@@ -10,3 +10,5 @@ If unpaid, it records the phone number of the coressponding resident and uses th
 
 Another file name keys.py is used to save the authenication code and token of the registered twilio account which is then imported to the code.py (main file) to send the msgs
 
+Also, refer to the "python libraries to b installed.txt" to install the necessary modules in python using pip command in the terminal.
+
