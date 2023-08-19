@@ -8,6 +8,7 @@ House#	|| Sub Unit ||	Name	|| Latest Rcpt	|| Amt	|| From ||	To	|| Contact number
 
 The pandas module reads the excel file and iterates through each record and checks is the payement status is unpaid. In case its already paid,it moves to the nxt resident.
 If unpaid, it records the phone number of the coressponding resident and uses the 3rd party module (currently, twilio module) to send a reminder msg to that contact and prints the number of the target contact.
+(Fields without contact information are to be saved with "-" in place of contact number)
 
 Another file name keys.py is used to save the authenication code and token of the registered twilio account which is then imported to the code.py (main file) to send the msgs
 
